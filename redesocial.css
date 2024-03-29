@@ -6,6 +6,7 @@ body {
     background-size: cover;
     background-position: top center;
     background-color: black;
+    background-attachment: fixed;
 }
 
 main {
@@ -23,7 +24,7 @@ main {
     position: relative;
     height: 627px;
     width: 311px;
-    background:blue url("tudo/imagens/frame-iphone.png") no-repeat;
+    background: url("tudo/imagens/frame-iphone.png") no-repeat;
 }
 
 .frame-phone {
